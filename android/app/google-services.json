@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606904251613",
+    "project_id": "foodgood-f3bd5",
+    "storage_bucket": "foodgood-f3bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606904251613:android:a3f9d984812cfa913a5734",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606904251613-fl6nuqg3cgi980jovi0jlrlhq3upq75a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3TKhEBG0f-hS5zww9PgnHLt71afhSTtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606904251613-fl6nuqg3cgi980jovi0jlrlhq3upq75a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
